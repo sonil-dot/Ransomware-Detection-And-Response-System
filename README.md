@@ -64,7 +64,7 @@ Setup and Installation
  1. Clone the repository
 
 bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/sonil-dot/Ransomware-Detection-And-Response-System.git
 cd Ransomware-Detection-and-Response-System
 
 
