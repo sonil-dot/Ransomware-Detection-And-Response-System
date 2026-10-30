@@ -1,0 +1,13 @@
+monitor:
+  paths:
+    - "./test_data"
+
+detection:
+  entropy_threshold: 7.0
+  threat_score_threshold: 70
+
+response:
+  simulation_mode: true
+
+database:
+  path: "./data/rdrs.db"
